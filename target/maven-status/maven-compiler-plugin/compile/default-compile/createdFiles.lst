@@ -1,0 +1,5 @@
+com/revature/SpringBootExample/SpringBootExampleApplication.class
+com/revature/SpringBootExample/service/FlashCardService.class
+com/revature/SpringBootExample/rest/FlashCardCtrl.class
+com/revature/SpringBootExample/repository/FlashCardRepo.class
+com/revature/SpringBootExample/beans/FlashCard.class
